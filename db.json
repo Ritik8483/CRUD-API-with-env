@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "name": "Mukul Dev",
+      "email": "mukul@gmail.com",
+      "address": "Kullu Manali",
+      "contact": "987778987",
+      "id": 2
+    },
+    {
+      "name": "Krishna Bharadwaj",
+      "email": "krishna@6787gmail.co.in",
+      "address": "Bharata",
+      "contact": "878676556",
+      "id": 3
+    }
+  ]
+}
